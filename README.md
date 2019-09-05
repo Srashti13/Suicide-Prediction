@@ -4,6 +4,12 @@ The data we used in this project are taken from United Nations Development Progr
 
 
 The purpose of this project is to redesign the bad visualizations and to make predictions based on given data.
+Bad Visualizations:
+![Bad1](Pics/BadVisuals.PNG)
 
+Good Visualizations
+![Good1](Pics/Visual2.PNG)
+
+![Good1](Pics/RedesignVisual1.PNG)
 
 This visualization is interactive and quite flexible, which can show the suicide trend with respect to population, GDP per year and capita for different countries of the world.
