@@ -4,10 +4,10 @@ The data we used in this project are taken from United Nations Development Progr
 
 
 The purpose of this project is to redesign the bad visualizations and to make predictions based on given data.
-Bad Visualizations:
+* Bad Visualizations:
 ![Bad1](Pics/BadVisuals.PNG)
 
-Good Visualizations
+* Good Visualizations
 ![Good1](Pics/Visual2.PNG)
 
 ![Good1](Pics/RedesignVisual1.PNG)
